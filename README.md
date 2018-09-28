@@ -1,4 +1,20 @@
-# education-react-native-basics
-Tutorial by Academind
+sudo npm install -g create-react-native-app
 
-07:54
+create-react-native-app share-places
+
+cd share-places
+
+npm start
+
+npm run eject
+
+
+npm run android
+
+
+
+
+Expo
+Visual Studio Code
+
+
