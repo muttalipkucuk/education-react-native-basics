@@ -14,7 +14,8 @@ npm run android
 
 
 
-Expo
-Visual Studio Code
+13:55
+- Expo
+- Visual Studio Code
 
 
